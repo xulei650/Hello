@@ -1,7 +1,6 @@
 #include <iostream>
 
-int main(int argc, char *argv[])
-{
+int main(int argc, char *argv[]) {
     if (1) {
         std::cout <<"111111111111112333333333333333333333333333333333333333333" <<std::endl;
     }
